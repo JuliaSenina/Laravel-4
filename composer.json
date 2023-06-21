@@ -1,0 +1,16 @@
+{
+    "name": "y.senina/laravel-4",
+    "type": "project",
+    "description": "The Laravel Framework.",
+    "keywords": ["framework", "laravel"],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "YSenina\\Laravel1\\": "src/"
+        }
+    },
+
+    "require": {
+        "laravel/installer": "^4.5"
+    }
+}
